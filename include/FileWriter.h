@@ -1,8 +1,7 @@
+#pragma once
+
 #include <iostream>
 #include <fstream>
-#include "Triple.h"
-
-#pragma once
 
 using namespace std;
 

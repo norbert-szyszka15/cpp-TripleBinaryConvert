@@ -1,10 +1,10 @@
+#pragma once
+
 #include <iostream>
 #include <fstream>
 #include <sstream>
 #include <vector>
 #include <Triple.h>
-
-#pragma once
 
 using namespace std;
 
