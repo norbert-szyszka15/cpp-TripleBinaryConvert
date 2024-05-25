@@ -1,0 +1,566 @@
+﻿line_number,start_stop,end_stop
+103,Aleja Przyjaźni,Lesisko
+110,Aleja Przyjaźni,Węgrzynowice
+122,Aleja Przyjaźni,Zesławice
+142,Aleja Przyjaźni,Os. Na Stoku
+160,Aleja Przyjaźni,Ruszcza
+422,Aleja Przyjaźni,Zesławice
+502,Aleja Przyjaźni,Salwator
+572,Aleja Przyjaźni,Bronowice Małe
+130,Azory,Dworzec Główny Zachód
+138,Azory,Kombinat
+138,Azory,Zajezdnia Bieńczyce
+173,Azory,Nowy Bieżanów Południe
+173,Azory,Rondo Matecznego
+494,Azory,Pod Fortem
+134,Baba Jaga (nż),Salwator
+127,Bagry,Podgórze SKA
+10,Bardosa,Kurdwanów P+R
+16,Bardosa,Mistrzejowice
+310,Będkowice Pętla,Cracovia Stadion
+910,Będkowice Pętla,Bronowice Małe
+310,Biały Kościół Murownia Pętla,Cracovia Stadion
+247,Bibice Rynek,Górka Narodowa P+R
+102,Bielany,Krowodrza Górka P+R
+109,Bielany,Cichy Kącik
+609,Bielany,Dworzec Główny Wschód
+204,Bieżanowska,Czerwone Maki P+R
+204,Bieżanowska,Wieliczka Miasto
+143,Bieżanów,Podgórze SKA
+153,Bieżanów Potrzask,Nowy Bieżanów P+R
+153,Bieżanów Potrzask,Nowy Bieżanów Południe
+176,Bodzów,Kostrze OSP
+297,Boleń Pętla,Krowodrza Górka P+R
+121,Borek Fałęcki,Kliny Poranne
+151,Borek Fałęcki,Pod Fortem
+175,Borek Fałęcki,Sidzina
+191,Borek Fałęcki,Pod Fortem
+214,Borek Fałęcki,Grabówki Pętla
+214,Borek Fałęcki,Podstolice Centrum
+215,Borek Fałęcki,Rzeszotary Panciawa Pętla
+225,Borek Fałęcki,Świątniki Górne Urząd Miasta i Gminy
+235,Borek Fałęcki,Ochodza Dwór
+235,Borek Fałęcki,Ochodza Odwiśle
+235,Borek Fałęcki,Skawina Podbory (nż)
+243,Borek Fałęcki,Skawina SCK
+245,Borek Fałęcki,Buków Pętla
+245,Borek Fałęcki,Skawina
+254,Borek Fałęcki,Golkowice Pętla
+254,Borek Fałęcki,Grabówki Pętla
+255,Borek Fałęcki,Gaj Zadziele
+255,Borek Fałęcki,Lusina Pętla
+265,Borek Fałęcki,Konary Pętla
+275,Borek Fałęcki,Włosań Centrum
+285,Borek Fałęcki,Ochojno Remiza
+293,Borek Fałęcki,Kopanka Pętla
+293,Borek Fałęcki,Skawina
+475,Borek Fałęcki,Sidzina
+610,Borek Fałęcki,Prądnik Czerwony
+19,Borek Fałęcki,Krowodrza G. P+R
+22,Borek Fałęcki,Kombinat
+22,Borek Fałęcki,Kopiec Wandy
+50,Borek Fałęcki,Górka Narodowa P+R
+8,Borek Fałęcki,Bronowice Małe
+13,Bronowice,Nowy Bieżanów P+R
+14,Bronowice,Mistrzejowice
+108,Bronowice Małe,Wizjonerów
+120,Bronowice Małe,Nowy Kleparz
+164,Bronowice Małe,Piaski Nowe
+172,Bronowice Małe,Kombinat
+172,Bronowice Małe,Struga
+200,Bronowice Małe,Przeginia Kościół
+218,Bronowice Małe,Zabierzów Młyn
+228,Bronowice Małe,Chrosna Pętla
+228,Bronowice Małe,Morawica Centrum
+230,Bronowice Małe,Ujazd Pętla
+238,Bronowice Małe,Młynka Pętla
+248,Bronowice Małe,Zelków Pętla
+258,Bronowice Małe,Nielepice Pętla
+268,Bronowice Małe,Karniowice Pętla
+278,Bronowice Małe,Krzeszowice Dworzec Autobusowy
+278,Bronowice Małe,Rudawa Szkoła
+572,Bronowice Małe,Aleja Przyjaźni
+664,Bronowice Małe,Os. Piastów
+730,Bronowice Małe,Modlniczka Dworska
+910,Bronowice Małe,Będkowice Pętla
+918,Bronowice Małe,Rudawa Rynek
+948,Bronowice Małe,Zelków Pętla
+24,Bronowice Małe,Kurdwanów P+R
+4,Bronowice Małe,Zaj. Nowa Huta
+64,Bronowice Małe,Os.Piastów
+8,Bronowice Małe,Borek Fałęcki
+22,Brożka (nż),Kopiec Wandy
+221,Brzegi Pętla,Mały Płaszów P+R
+223,Brzeźnica Dworzec,Czerwone Maki P+R
+223,Brzeźnica Dworzec,Skawina
+245,Buków Pętla,Borek Fałęcki
+501,Bulwarowa (nż),Chełmońskiego Pętla
+224,Centrum JP II,Wieliczka Miasto
+131,Chałupki,Pleszów
+192,Chełm,Dworzec Główny Wschód
+168,Chełmońskiego Pętla,Krowodrza Górka P+R
+501,Chełmońskiego Pętla,Bulwarowa (nż)
+511,Chełmońskiego Pętla,Os. Na Stoku
+611,Chełmońskiego Pętla,Czyżyny Dworzec
+211,Chobot Leśniczówka,Pleszów
+228,Chrosna Pętla,Bronowice Małe
+109,Cichy Kącik,Bielany
+159,Cichy Kącik,Os. Piastów
+1,Cichy Kącik,Wańkowicza
+20,Cichy Kącik,Mały Płaszów P+R
+152,Cmentarz Olszanica (nż),Czyżyny Dworzec
+105,Cmentarz Prądnik Czerwony,Dworzec Główny Zachód
+442,Cmentarz Prądnik Czerwony,Os. Na Stoku
+72,Cmentarz Rakowicki,Mały Płaszów P+R
+134,Cracovia Stadion,ZOO
+307,Cracovia Stadion,Michałowice P+R
+310,Cracovia Stadion,Będkowice Pętla
+310,Cracovia Stadion,Biały Kościół Murownia Pętla
+199,Czarnowiejska,Mydlniki Wapiennik P+R
+249,Czernichów Rynek,Os. Podwawelskie
+249,Czernichów Rynek,Rondo Grunwaldzkie
+259,Czernichów Rynek,Os. Podwawelskie
+259,Czernichów Rynek,Rondo Grunwaldzkie
+116,Czerwone Maki P+R,Podgórki Tynieckie
+156,Czerwone Maki P+R,Sidzina
+203,Czerwone Maki P+R,Skawina
+204,Czerwone Maki P+R,Wieliczka Miasto
+213,Czerwone Maki P+R,Krzęcin Pętla
+223,Czerwone Maki P+R,Brzeźnica Dworzec
+233,Czerwone Maki P+R,Sidzina
+233,Czerwone Maki P+R,Skawina
+253,Czerwone Maki P+R,Wola Radziszowska Pętla
+263,Czerwone Maki P+R,Radziszów PKP
+283,Czerwone Maki P+R,Skawina
+476,Czerwone Maki P+R,Kostrze OSP
+578,Czerwone Maki P+R,Mistrzejowice
+662,Czerwone Maki P+R,Plac Centralny im. R.Reagana
+903,Czerwone Maki P+R,Skawina
+11,Czerwone Maki P+R,Mały Płaszów P+R
+17,Czerwone Maki P+R,Dworzec Towarowy
+18,Czerwone Maki P+R,Górka Narodowa P+R
+52,Czerwone Maki P+R,Os.Piastów
+62,Czerwone Maki P+R,pl. Centralny
+212,Czulice Kościół,Czyżyny Dworzec
+271,Czulice Kościół,Pleszów
+269,Czułów Szkoła,Os. Podwawelskie
+269,Czułówek Kapliczka,Os. Podwawelskie
+269,Czułówek Kapliczka,Rondo Grunwaldzkie
+113,Czyżyny Dworzec,EC Łęg
+129,Czyżyny Dworzec,Dworzec Główny Zachód
+152,Czyżyny Dworzec,Cmentarz Olszanica (nż)
+202,Czyżyny Dworzec,Łososkowice Remiza
+212,Czyżyny Dworzec,Czulice Kościół
+222,Czyżyny Dworzec,Słomniki Osiedle
+232,Czyżyny Dworzec,Goszcza Dworek
+262,Czyżyny Dworzec,Rawałowice Kapliczka
+603,Czyżyny Dworzec,Na Załęczu
+611,Czyżyny Dworzec,Chełmońskiego Pętla
+701,Czyżyny Dworzec,Wzgórza Krzesławickie
+239,Dąbrowa Szlachecka Krzemiennik,Os. Podwawelskie
+182,Dworzec Główny Wschód,Os. Na Stoku
+192,Dworzec Główny Wschód,Chełm
+192,Dworzec Główny Wschód,Olszanica Bory
+482,Dworzec Główny Wschód,Mistrzejowice
+537,Dworzec Główny Wschód,Witkowice
+609,Dworzec Główny Wschód,Bielany
+902,Dworzec Główny Wschód,Kraków Airport
+105,Dworzec Główny Zachód,Prądnik Czerwony
+129,Dworzec Główny Zachód,Czyżyny Dworzec
+130,Dworzec Główny Zachód,Azory
+132,Dworzec Główny Zachód,Kombinat
+179,Dworzec Główny Zachód,Os. Kurdwanów
+304,Dworzec Główny Zachód,Wieliczka Miasto
+405,Dworzec Główny Zachód,Cmentarz Prądnik Czerwony
+17,Dworzec Towarowy,Czerwone Maki P+R
+44,Dworzec Towarowy,Kombinat
+44,Dworzec Towarowy,Kopiec Wandy
+297,Dziekanowice Batowice SKA,Boleń Pętla
+113,EC Łęg,Czyżyny Dworzec
+255,Gaj Zadziele,Borek Fałęcki
+220,Giebułtów Morgi,Krowodrza Górka P+R
+135,Golkowice Pętla,Kurdwanów P+R
+135,Golkowice Pętla,Łagiewniki
+254,Golkowice Pętla,Borek Fałęcki
+232,Goszcza Dworek,Czyżyny Dworzec
+193,Górka Narodowa P+R,Lesisko
+217,Górka Narodowa P+R,Węgrzce Pętla
+247,Górka Narodowa P+R,Bibice Rynek
+257,Górka Narodowa P+R,Narama Remiza
+277,Górka Narodowa P+R,Iwanowice Dworskie Pętla
+280,Górka Narodowa P+R,Owczary Pętla
+503,Górka Narodowa P+R,Nowy Bieżanów Południe
+18,Górka Narodowa P+R,Czerwone Maki P+R
+50,Górka Narodowa P+R,Borek Fałęcki
+50,Górka Narodowa P+R,Kurdwanów P+R
+69,Górka Narodowa P+R,Nowy Bieżanów P+R
+227,Górna Wieś Pętla,Krowodrza Górka P+R
+917,Górna Wieś Pętla,Krowodrza Górka P+R
+264,Grabie Kościół,Mały Płaszów P+R
+295,Grabie Pętla,Skawina SCK
+214,Grabówki Pętla,Borek Fałęcki
+254,Grabówki Pętla,Borek Fałęcki
+180,Grębałów,Os. Na Stoku
+277,Iwanowice Dworskie Pętla,Górka Narodowa P+R
+219,Jeziorzany Pętla,Os. Podwawelskie
+239,Jeziorzany Pętla,Os. Podwawelskie
+229,Kamień Szkoła,Os. Podwawelskie
+229,Kamień Szkoła,Rondo Grunwaldzkie
+268,Karniowice Pętla,Bronowice Małe
+121,Kliny Poranne,Borek Fałęcki
+272,Kocmyrzów-Luborzyca Urząd Gminy,Kombinat
+132,Kombinat,Dworzec Główny Zachód
+138,Kombinat,Azory
+139,Kombinat,Przybyszewskiego
+172,Kombinat,Bronowice Małe
+174,Kombinat,Os. Kurdwanów
+242,Kombinat,Krzysztoforzyce Pętla
+272,Kombinat,Kocmyrzów-Luborzyca Urząd Gminy
+742,Kombinat,Wzgórza Krzesławickie
+265,Konary Pętla,Borek Fałęcki
+293,Kopanka Pętla,Borek Fałęcki
+101,Kopiec Kościuszki,Os. Podwawelskie
+21,Kopiec Wandy,Os.Piastów
+22,Kopiec Wandy,Borek Fałęcki
+44,Kopiec Wandy,Dworzec Towarowy
+176,Kostrze OSP,Bodzów
+476,Kostrze OSP,Czerwone Maki P+R
+496,Kostrze OSP,Łagiewniki
+196,Kozienicka,Łagiewniki
+300,Kraków Airport,Os. Podwawelskie
+902,Kraków Airport,Dworzec Główny Wschód
+102,Krowodrza Górka P+R,Bielany
+137,Krowodrza Górka P+R,Os. Gotyk
+168,Krowodrza Górka P+R,Chełmońskiego Pętla
+194,Krowodrza Górka P+R,Pod Fortem
+207,Krowodrza Górka P+R,Trojanowice Pętla
+220,Krowodrza Górka P+R,Giebułtów Morgi
+227,Krowodrza Górka P+R,Górna Wieś Pętla
+240,Krowodrza Górka P+R,Pękowice Ojcowska
+267,Krowodrza Górka P+R,Skała Rynek
+287,Krowodrza Górka P+R,Zielonki Marszowiec Pętla
+290,Krowodrza Górka P+R,Pękowice Ojcowska
+297,Krowodrza Górka P+R,Boleń Pętla
+513,Krowodrza Górka P+R,Miejskie Centrum Opieki
+637,Krowodrza Górka P+R,Os. Gotyk
+669,Krowodrza Górka P+R,Nowy Bieżanów P+R
+917,Krowodrza Górka P+R,Górna Wieś Pętla
+937,Krowodrza Górka P+R,Owczary Pętla
+19,Krowodrza Górka P+R,Borek Fałęcki
+3,Krowodrza Górka P+R,Nowy Bieżanów P+R
+5,Krowodrza Górka P+R,Wańkowicza
+278,Krzeszowice Dworzec Autobusowy,Bronowice Małe
+213,Krzęcin Pętla,Czerwone Maki P+R
+213,Krzęcin Pętla,Skawina
+242,Krzysztoforzyce Pętla,Kombinat
+181,Kujawy,Pleszów
+10,Kurdwanów P+R,Bardosa
+10,Kurdwanów P+R,Pleszów
+24,Kurdwanów P+R,Bronowice Małe
+50,Kurdwanów P+R,Górka Narodowa P+R
+103,Lesisko,Aleja Przyjaźni
+149,Lesisko,Szpital Okulistyczny
+193,Lesisko,Górka Narodowa P+R
+255,Lusina Pętla,Borek Fałęcki
+106,Łagiewniki,Skotniki Szkoła
+133,Łagiewniki,Nowy Bieżanów P+R
+135,Łagiewniki,Golkowice Pętla
+136,Łagiewniki,Pod Fortem
+178,Łagiewniki,Mistrzejowice
+196,Łagiewniki,Kozienicka
+433,Łagiewniki,Piaski Wielkie
+496,Łagiewniki,Kostrze OSP
+915,Łagiewniki,Świątniki Górne Urząd Miasta i Gminy
+10,Łagiewniki,Pleszów
+8,Łagiewniki,Bronowice Małe
+202,Łososkowice Remiza,Czyżyny Dworzec
+123,Mały Płaszów P+R,Mistrzejowice
+125,Mały Płaszów P+R,Rżąka
+221,Mały Płaszów P+R,Niepołomice Dworzec
+264,Mały Płaszów P+R,Grabie Kościół
+425,Mały Płaszów P+R,Złocień
+11,Mały Płaszów P+R,Czerwone Maki P+R
+20,Mały Płaszów P+R,Cichy Kącik
+72,Mały Płaszów P+R,Cmentarz Rakowicki
+307,Michałowice P+R,Cracovia Stadion
+513,Miejskie Centrum Opieki,Krowodrza Górka P+R
+123,Mistrzejowice,Mały Płaszów P+R
+178,Mistrzejowice,Łagiewniki
+198,Mistrzejowice,Zakole
+482,Mistrzejowice,Dworzec Główny Wschód
+578,Mistrzejowice,Czerwone Maki P+R
+14,Mistrzejowice,Bronowice
+16,Mistrzejowice,Bardosa
+9,Mistrzejowice,Nowy Bieżanów P+R
+238,Młynka Pętla,Bronowice Małe
+209,Mników Skały,Os. Podwawelskie
+730,Modlniczka Dworska,Bronowice Małe
+209,Morawica Centrum,Os. Podwawelskie
+209,Morawica Centrum,Rondo Grunwaldzkie
+228,Morawica Centrum,Bronowice Małe
+164,Mydlniki Wapiennik P+R,Piaski Nowe
+199,Mydlniki Wapiennik P+R,Prądnik Czerwony
+601,Mydlniki Wapiennik P+R,Zajezdnia Bieńczyce
+601,Mydlniki Wapiennik P+R,Zajezdnia Nowa Huta
+413,Na Załęczu,Rondo Czyżyńskie
+603,Na Załęczu,Czyżyny Dworzec
+257,Narama Remiza,Górka Narodowa P+R
+258,Nielepice Pętla,Bronowice Małe
+221,Niepołomice Dworzec,Mały Płaszów P+R
+301,Niepołomice Dworzec,Nowy Kleparz
+249,Nowa Wieś Szlachecka Pętla,Os. Podwawelskie
+224,Nowosądecka,Wieliczka Miasto
+904,Nowosądecka,Prądnik Biały
+133,Nowy Bieżanów P+R,Kurdwanów P+R
+133,Nowy Bieżanów P+R,Łagiewniki
+153,Nowy Bieżanów P+R,Bieżanów Potrzask
+669,Nowy Bieżanów P+R,Krowodrza Górka P+R
+669,Nowy Bieżanów P+R,Podgórze SKA
+13,Nowy Bieżanów P+R,Bronowice
+3,Nowy Bieżanów P+R,Krowodrza G. P+R
+49,Nowy Bieżanów P+R,Wieczysta
+69,Nowy Bieżanów P+R,Górka Narodowa P+R
+69,Nowy Bieżanów P+R,Podgórze SKA
+9,Nowy Bieżanów P+R,Mistrzejowice
+153,Nowy Bieżanów Południe,Bieżanów Potrzask
+163,Nowy Bieżanów Południe,Szpital Rydygiera
+173,Nowy Bieżanów Południe,Azory
+234,Nowy Bieżanów Południe,Węgrzce Wielkie Pętla
+244,Nowy Bieżanów Południe,Wieliczka Miasto
+284,Nowy Bieżanów Południe,Wieliczka Centrum
+503,Nowy Bieżanów Południe,Górka Narodowa P+R
+120,Nowy Kleparz,Bronowice Małe
+140,Nowy Kleparz,Radzikowskiego Osiedle
+189,Nowy Kleparz,Plac Centralny im. R.Reagana
+301,Nowy Kleparz,Niepołomice Dworzec
+337,Nowy Kleparz,Owczary Pętla
+420,Nowy Kleparz,Tonie
+235,Ochodza Dwór,Borek Fałęcki
+235,Ochodza Odwiśle,Borek Fałęcki
+285,Ochojno Remiza,Borek Fałęcki
+990,Ojców Zamek,Os. Podwawelskie
+192,Olszanica Bory,Dworzec Główny Wschód
+137,Os. Gotyk,Krowodrza Górka P+R
+637,Os. Gotyk,Krowodrza Górka P+R
+174,Os. Kurdwanów,Kombinat
+179,Os. Kurdwanów,Dworzec Główny Zachód
+142,Os. Na Stoku,Aleja Przyjaźni
+180,Os. Na Stoku,Grębałów
+182,Os. Na Stoku,Dworzec Główny Wschód
+442,Os. Na Stoku,Cmentarz Prądnik Czerwony
+511,Os. Na Stoku,Chełmońskiego Pętla
+608,Os. Na Stoku,Pod Fortem
+159,Os. Piastów,Cichy Kącik
+664,Os. Piastów,Bronowice Małe
+664,Os. Piastów,Teatr Słowackiego
+21,Os. Piastów,Kombinat
+21,Os. Piastów,Kopiec Wandy
+21,Os. Piastów,Pleszów
+52,Os. Piastów,Czerwone Maki P+R
+64,Os. Piastów,Bronowice Małe
+64,Os. Piastów,Teatr Słowackiego
+101,Os. Podwawelskie,Kopiec Kościuszki
+112,Os. Podwawelskie,Tyniec Kamieniołom
+124,Os. Podwawelskie,TAURON Arena Kraków Wieczysta
+162,Os. Podwawelskie,Podgórki Tynieckie
+209,Os. Podwawelskie,Mników Skały
+209,Os. Podwawelskie,Morawica Centrum
+219,Os. Podwawelskie,Jeziorzany Pętla
+229,Os. Podwawelskie,Kamień Szkoła
+239,Os. Podwawelskie,Dąbrowa Szlachecka Krzemiennik
+239,Os. Podwawelskie,Jeziorzany Pętla
+239,Os. Podwawelskie,Wołowice Kapliczka
+249,Os. Podwawelskie,Czernichów Rynek
+249,Os. Podwawelskie,Czułówek Kapliczka
+249,Os. Podwawelskie,Nowa Wieś Szlachecka Pętla
+259,Os. Podwawelskie,Czernichów Rynek
+269,Os. Podwawelskie,Czułów Szkoła
+269,Os. Podwawelskie,Czułówek Kapliczka
+269,Os. Podwawelskie,Rybna Dolna
+300,Os. Podwawelskie,Kraków Airport
+424,Os. Podwawelskie,Ugorek
+612,Os. Podwawelskie,Tyniec Kamieniołom
+990,Os. Podwawelskie,Ojców Zamek
+280,Owczary Pętla,Górka Narodowa P+R
+337,Owczary Pętla,Nowy Kleparz
+937,Owczary Pętla,Krowodrza Górka P+R
+240,Pękowice Ojcowska,Krowodrza Górka P+R
+290,Pękowice Ojcowska,Krowodrza Górka P+R
+164,Piaski Nowe,Bronowice Małe
+164,Piaski Nowe,Mydlniki Wapiennik P+R
+169,Piaski Wielkie,Prądnik Biały Wschód
+433,Piaski Wielkie,Łagiewniki
+260,Pielgrzymowice Pętla,Prądnik Czerwony
+270,Pielgrzymowice Pętla,Prądnik Czerwony
+189,Plac Centralny im. R.Reagana,Nowy Kleparz
+662,Plac Centralny im. R.Reagana,Czerwone Maki P+R
+62,Plac Centralny im. R.Reagana,Czerwone Maki P+R
+111,Pleszów,Pleszów
+131,Pleszów,Chałupki
+141,Pleszów,Przylasek Rusiecki
+161,Pleszów,Pleszów
+171,Pleszów,Wróżenice
+181,Pleszów,Kujawy
+211,Pleszów,Chobot Leśniczówka
+271,Pleszów,Czulice Kościół
+10,Pleszów,Kurdwanów P+R
+21,Pleszów,Os.Piastów
+136,Pod Fortem,Łagiewniki
+151,Pod Fortem,Borek Fałęcki
+191,Pod Fortem,Borek Fałęcki
+194,Pod Fortem,Krowodrza Górka P+R
+494,Pod Fortem,Azory
+608,Pod Fortem,Os. Na Stoku
+116,Podgórki Tynieckie,Czerwone Maki P+R
+162,Podgórki Tynieckie,Os. Podwawelskie
+162,Podgórki Tynieckie,Rondo Grunwaldzkie
+127,Podgórze SKA,Bagry
+143,Podgórze SKA,Bieżanów
+158,Podgórze SKA,Podwierzbie
+274,Podgórze SKA,Trąbki P+R
+214,Podstolice Centrum,Borek Fałęcki
+158,Podwierzbie,Podgórze SKA
+273,Polanka Hallera Centrum,Skawina SCK
+260,Powstańców Wiadukt,Pielgrzymowice Pętla
+144,Prądnik Biały,Rżąka
+904,Prądnik Biały,Wieliczka Miasto
+169,Prądnik Biały Wschód,Zajezdnia Wola Duchacka
+469,Prądnik Biały Wschód,Piaski Wielkie
+105,Prądnik Czerwony,Dworzec Główny Zachód
+128,Prądnik Czerwony,Zajezdnia Płaszów
+184,Prądnik Czerwony,Starowiślna
+199,Prądnik Czerwony,Mydlniki Wapiennik P+R
+250,Prądnik Czerwony,Zastów Pętla
+260,Prądnik Czerwony,Pielgrzymowice Pętla
+270,Prądnik Czerwony,Pielgrzymowice Pętla
+270,Prądnik Czerwony,Zastów Pętla
+610,Prądnik Czerwony,Borek Fałęcki
+610,Prądnik Czerwony,Sidzina
+200,Przeginia Kościół,Bronowice Małe
+139,Przybyszewskiego,Kombinat
+139,Przybyszewskiego,Struga
+141,Przylasek Rusiecki,Pleszów
+140,Radzikowskiego Osiedle,Nowy Kleparz
+263,Radziszów PKP,Czerwone Maki P+R
+262,Rawałowice Kapliczka,Czyżyny Dworzec
+103,Rondo Czyżyńskie,Lesisko
+413,Rondo Czyżyńskie,Na Załęczu
+101,Rondo Grunwaldzkie,Kopiec Kościuszki
+112,Rondo Grunwaldzkie,Tyniec Kamieniołom
+162,Rondo Grunwaldzkie,Podgórki Tynieckie
+209,Rondo Grunwaldzkie,Morawica Centrum
+229,Rondo Grunwaldzkie,Kamień Szkoła
+249,Rondo Grunwaldzkie,Czernichów Rynek
+259,Rondo Grunwaldzkie,Czernichów Rynek
+269,Rondo Grunwaldzkie,Czułówek Kapliczka
+269,Rondo Grunwaldzkie,Rybna Dolna
+173,Rondo Matecznego,Azory
+20,Rondo Mogilskie,Mały Płaszów P+R
+200,Rondo Ofiar Katynia,Przeginia Kościół
+230,Rondo Ofiar Katynia,Ujazd Pętla
+238,Rondo Ofiar Katynia,Młynka Pętla
+248,Rondo Ofiar Katynia,Zelków Pętla
+258,Rondo Ofiar Katynia,Nielepice Pętla
+268,Rondo Ofiar Katynia,Karniowice Pętla
+278,Rondo Ofiar Katynia,Krzeszowice Dworzec Autobusowy
+918,Rudawa Rynek,Bronowice Małe
+278,Rudawa Szkoła,Bronowice Małe
+160,Ruszcza,Aleja Przyjaźni
+269,Rybna Dolna,Os. Podwawelskie
+215,Rzeszotary Panciawa Pętla,Borek Fałęcki
+125,Rżąka,Mały Płaszów P+R
+144,Rżąka,Prądnik Biały
+134,Salwator,Baba Jaga (nż)
+134,Salwator,ZOO
+502,Salwator,Aleja Przyjaźni
+156,Sidzina,Czerwone Maki P+R
+175,Sidzina,Borek Fałęcki
+233,Sidzina,Czerwone Maki P+R
+475,Sidzina,Borek Fałęcki
+610,Sidzina,Prądnik Czerwony
+267,Skała Rynek,Krowodrza Górka P+R
+203,Skawina,Czerwone Maki P+R
+213,Skawina,Krzęcin Pętla
+223,Skawina,Brzeźnica Dworzec
+233,Skawina,Czerwone Maki P+R
+245,Skawina,Borek Fałęcki
+283,Skawina,Czerwone Maki P+R
+293,Skawina,Borek Fałęcki
+903,Skawina,Czerwone Maki P+R
+235,Skawina Podbory (nż),Borek Fałęcki
+243,Skawina SCK,Borek Fałęcki
+273,Skawina SCK,Polanka Hallera Centrum
+295,Skawina SCK,Grabie Pętla
+106,Skotniki Szkoła,Łagiewniki
+222,Słomniki Osiedle,Czyżyny Dworzec
+107,Soboniowice,Zajezdnia Wola Duchacka
+184,Starowiślna,Prądnik Czerwony
+139,Struga,Przybyszewskiego
+172,Struga,Bronowice Małe
+21,Struga,Os.Piastów
+22,Struga,Borek Fałęcki
+44,Struga,Dworzec Towarowy
+155,Swoszowice SKA,Zajezdnia Wola Duchacka
+149,Szpital Okulistyczny,Lesisko
+163,Szpital Rydygiera,Nowy Bieżanów Południe
+215,Świątniki Górne Bielowicza Szkoła,Borek Fałęcki
+225,Świątniki Górne Urząd Miasta i Gminy,Borek Fałęcki
+915,Świątniki Górne Urząd Miasta i Gminy,Łagiewniki
+124,TAURON Arena Kraków Wieczysta,Os. Podwawelskie
+49,TAURON Arena Kraków Wieczysta,Nowy Bieżanów P+R
+605,Teatr Słowackiego,Złocień
+420,Tonie,Nowy Kleparz
+274,Trąbki P+R,Podgórze SKA
+207,Trojanowice Pętla,Krowodrza Górka P+R
+112,Tyniec Kamieniołom,Os. Podwawelskie
+112,Tyniec Kamieniołom,Rondo Grunwaldzkie
+612,Tyniec Kamieniołom,Os. Podwawelskie
+612,Tyniec Kamieniołom,Rondo Grunwaldzkie
+424,Ugorek,Os. Podwawelskie
+230,Ujazd Pętla,Bronowice Małe
+1,Wańkowicza,Cichy Kącik
+5,Wańkowicza,Krowodrza G. P+R
+217,Węgrzce Pętla,Górka Narodowa P+R
+234,Węgrzce Wielkie Pętla,Nowy Bieżanów Południe
+110,Węgrzynowice,Aleja Przyjaźni
+110,Węgrzynowice,Wańkowicza
+284,Wieliczka Centrum,Nowy Bieżanów Południe
+204,Wieliczka Miasto,Bieżanowska
+204,Wieliczka Miasto,Czerwone Maki P+R
+224,Wieliczka Miasto,Centrum JP II
+224,Wieliczka Miasto,Piaski Nowe
+244,Wieliczka Miasto,Nowy Bieżanów Południe
+304,Wieliczka Miasto,Dworzec Główny Zachód
+904,Wieliczka Miasto,Prądnik Biały
+537,Witkowice,Dworzec Główny Wschód
+108,Wizjonerów,Bronowice Małe
+275,Włosań Centrum,Borek Fałęcki
+253,Wola Radziszowska Pętla,Czerwone Maki P+R
+239,Wołowice Kapliczka,Os. Podwawelskie
+171,Wróżenice,Pleszów
+701,Wzgórza Krzesławickie,Czyżyny Dworzec
+742,Wzgórza Krzesławickie,Kombinat
+218,Zabierzów Młyn,Bronowice Małe
+138,Zajezdnia Bieńczyce,Azory
+601,Zajezdnia Bieńczyce,Mydlniki Wapiennik P+R
+601,Zajezdnia Nowa Huta,Mydlniki Wapiennik P+R
+4,Zajezdnia Nowa Huta,Bronowice Małe
+128,Zajezdnia Płaszów,Prądnik Czerwony
+107,Zajezdnia Wola Duchacka,Soboniowice
+155,Zajezdnia Wola Duchacka,Swoszowice SKA
+164,Zajezdnia Wola Duchacka,Bronowice Małe
+164,Zajezdnia Wola Duchacka,Mydlniki Wapiennik P+R
+169,Zajezdnia Wola Duchacka,Prądnik Biały Wschód
+198,Zakole,Mistrzejowice
+250,Zastów Pętla,Prądnik Czerwony
+270,Zastów Pętla,Prądnik Czerwony
+248,Zelków Pętla,Bronowice Małe
+948,Zelków Pętla,Bronowice Małe
+122,Zesławice,Aleja Przyjaźni
+122,Zesławice,Darwina
+422,Zesławice,Aleja Przyjaźni
+287,Zielonki Marszowiec Pętla,Krowodrza Górka P+R
+425,Złocień,Mały Płaszów P+R
+605,Złocień,Teatr Słowackiego
+134,ZOO,Cracovia Stadion
+134,ZOO,Salwator
